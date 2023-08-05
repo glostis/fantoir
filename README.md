@@ -2,6 +2,14 @@
 
 Ce repository contient le code utilisé pour faire quelques analyses sur le fichier [FANTOIR](https://fr.wikipedia.org/wiki/FANTOIR) qui contient la base de données officielle des noms de rues des communes françaises.
 
+* [Données utilisées](#données-utilisées)
+  + [FANTOIR](#fantoir)
+  + [Contour communes](#contour-communes)
+* [Analyses](#analyses)
+  + [Fréquence de type de voie](#fréquence-de-type-de-voie)
+  + [Cartographie des types de voie](#cartographie-des-types-de-voie)
+  + [Cartographie des noms de voie](#cartographie-des-noms-de-voie)
+
 ## Données utilisées
 
 ### FANTOIR
